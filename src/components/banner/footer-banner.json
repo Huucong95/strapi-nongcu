@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_banner_footer_banners",
+  "info": {
+    "displayName": "footerBanner"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "displayName": "ItemBannerFooter",
+      "type": "component",
+      "repeatable": true,
+      "component": "banner.item-banner-footer"
+    }
+  }
+}

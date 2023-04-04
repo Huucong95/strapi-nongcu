@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_share_item_footers",
+  "info": {
+    "displayName": "itemFooter",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "text"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "phone",
+        "email"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_share_socials",
+  "info": {
+    "displayName": "social"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "url": {
+      "type": "text"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

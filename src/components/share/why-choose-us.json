@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_share_why_chooseuses",
+  "info": {
+    "displayName": "WhyChooseUs"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "banner.item-banner-footer"
+    }
+  }
+}

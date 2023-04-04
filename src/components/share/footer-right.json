@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_share_footer_rights",
+  "info": {
+    "displayName": "FooterRight"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "SubItem": {
+      "displayName": "itemFooter",
+      "type": "component",
+      "repeatable": true,
+      "component": "share.item-footer"
+    }
+  }
+}

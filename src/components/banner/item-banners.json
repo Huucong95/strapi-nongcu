@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_banner_item_banners",
+  "info": {
+    "displayName": "itemBanners",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text",
+      "required": false
+    },
+    "nameButton": {
+      "type": "string",
+      "required": false
+    },
+    "urlButton": {
+      "type": "text",
+      "required": true
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

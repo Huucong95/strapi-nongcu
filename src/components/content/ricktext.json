@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_content_ricktexts",
+  "info": {
+    "displayName": "Ricktext"
+  },
+  "options": {},
+  "attributes": {
+    "ricktext": {
+      "type": "richtext"
+    }
+  }
+}
